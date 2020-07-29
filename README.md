@@ -31,3 +31,8 @@ Projede aşağıda bulunan görseldeki yapıyı kullandım. Her başlığın ne 
 
 **Test->TestClass:** sınıfında getMovieById(String movieName,String filmName) methodu ile film adına göre arama yapıp apiden dönen filmlerden filmName'e göre arama yapıp bulunan filmin İmdbId'sini döndüren bir method yazdım.
 searchFilmTest() Test Methodunda Harry Potter and the Sorcerer's Stone filminin Title, Year, Released bilgilerini kontrol ettim.
+
+
+# 29.07.2020'de yapılan ekstra özellik hakkında
+Yapılan iyileştirme sonrasında girilen kelime ile film ya da **oyun** adına göre bulan ve ImdbId’sini alıp id ile istenilen filmi veya oyunu bulan bir proje olmuştur.
+
