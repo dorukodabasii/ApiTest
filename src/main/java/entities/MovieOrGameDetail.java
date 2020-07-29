@@ -5,7 +5,7 @@ import com.google.gson.annotations.SerializedName;
 
 import java.util.List;
 
-public class MovieDetail {
+public class MovieOrGameDetail {
     @SerializedName("Title")
     @Expose
     private String title;
